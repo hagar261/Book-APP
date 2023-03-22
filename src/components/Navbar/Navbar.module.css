@@ -1,0 +1,23 @@
+
+
+.navbar_brand,
+.navbar_brand:hover
+{
+    /* font-family: 'Tilt Prism', cursive; */
+    font-size: 2rem;
+    text-decoration: overline;
+    color: aliceblue;
+    font-family: ui-monospace;
+}
+
+.nav button{
+    margin-left: 1rem;
+}
+
+.nav input,
+.nav input:focus
+{
+    background-color: #062C30;
+    color: #fff;
+    border: 1px solid #6c757d;
+}

@@ -1,0 +1,13 @@
+
+
+.book_details img{
+    border:18px solid  #012124;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.book_details img:hover{
+    transform: scale(1.1,1.1);
+}
